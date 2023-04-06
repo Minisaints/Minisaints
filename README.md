@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Minisaints
-- 👀 I’m obsessed with programming
-- 🌱 I’m currently learning React-Native
-- 📫 How to reach me
+- 👀 I’m half obsessed with programming/hacking
+- 🌱 I’m currently using React-Native/NextJS
+- 📫 How to reach me - nowhere
 
 <!---
 Minisaints/Minisaints is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
