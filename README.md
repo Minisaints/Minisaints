@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Minisaints
-- 👀 I’m half obsessed with programming/penetration testing
-- 🌱 I’m currently using React-Native/NextJS and THM/HTB
+- ❤️ React Native/NextJS/Prisma/C#/SQL/THM/HTB
 
 <!---
 Minisaints/Minisaints is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
